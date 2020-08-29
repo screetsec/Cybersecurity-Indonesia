@@ -26,6 +26,7 @@ ________________________________________________________________________________
 
 ## Introduce Cyber Security
 - [Pengenalan Cyber Security](https://www.youtube.com/watch?v=pTQ2VcdcObU&t=6s) - OVIS UI
+- [Cyber Security Fundamental (Bahasa Indonesia) - Core Security Principles](https://youtu.be/yIzsTukZ8e4) -Moklet Teach ID
 - [Ruang Lingkup Cyber Security](https://www.youtube.com/watch?v=BNcaTTglmRA) - OVIS UI
 - [Cyber Security 101: Filosofi Dasar Keamanan Siber](https://youtu.be/on742mcT4jo) - Manajemen TI
 - [Mendeteksi dan Mengatasi Insiden Cyber Security](https://youtu.be/JwQOyeHswCM) - OVIS UI
@@ -51,8 +52,9 @@ ________________________________________________________________________________
 - [Membangun Jalur Karir Di Cyber Security](https://youtu.be/Gh6Mz2wuMuM?t=706) - Dr. Toto Atmojo (Founder & CEO, Defenxor)
 - [How Can I Become A Penetration Tester](https://youtu.be/Gh6Mz2wuMuM?t=3097) - Thomas Gregory (Founder & COO, Spentera)
 - [Cybersecurity Threats, Challenges, Opportunites](https://youtu.be/Gh6Mz2wuMuM?t=5212) - Semi Yulianto (Founder & CEO, SGI Asia)
+- [Menjadi Cyber Security Defendor - Wawancara Exclusive](https://youtu.be/0efIcVpxX2E) - Digit Oktavianto (Found Blueteam.id)
 - [Nusantech Webinar - Berkarir di Bidang Cyber Security](https://www.youtube.com/watch?v=FkPTFYqGjR8&t=3458s) - Satria Ady Pradana (Cyber Security Consultant MII)
-- [Menjadi Cyber Security Defendor - Wawancara Exclusive](https://youtu.be/0efIcVpxX2E) - Digit Oktavianto
+- [Karir di bidang Cybersecurity] - Budi Raharjo Channel
 
 ------
 
