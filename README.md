@@ -90,6 +90,7 @@ ________________________________________________________________________________
 - [Pengenalan Tools XSStrike Untuk Mencari Bug XSS](https://www.youtube.com/watch?v=NBCI5pAVEUQ) - Ethical Hacking Indonesia
 - [DVWA - Serangan Cross-Site Scripting (XSS) Reflected, Stored & DOM + Solusi](https://www.youtube.com/watch?v=ElTBEOMGwPc) - Ngoding Coding
 - [Mencuri Cookies Menggunakan Serangan Cross Site Scripting Stored (XSS Stored)](https://www.youtube.com/watch?v=ibnVWCCtsHU) - Ayz Channel
+- [Mengidentifikasi serangan XSS](https://youtu.be/Dy6_QVxgkUo?t=1336) -  Ando Rumampuk on Orang Siber Channel
 
 ### Insecure Direct Object References (IDOR)
 - [Sekilas IDOR dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=1634) - Pondok Daring Siber
@@ -136,6 +137,7 @@ Tim biru adalah sekelompok individu yang melakukan analisis sistem informasi unt
 - [Pengenalan dan Benefit Bug Bounty](https://youtu.be/IdXvfHrMJSQ?t=680) - Pondok Daring Siber
 - [Bug Hunting - Open redirect, XSS, IDOR](https://youtu.be/lHdfeY4RB3E) - Pondok Daring Siber
 - [Essential & Favorite Bug Bounty Hunting Tools](https://www.youtube.com/watch?v=avU_QuAQQk8) - Semi Yulianto
+- [Bug Hunter Muda Talk | Spesialisasi XSS](https://www.youtube.com/watch?v=Dy6_QVxgkUo) - Orang Siber Channel
 
 ### Story Bug Hunting
 - [Mendapat 100 Juta Dari Google Karena Melaporkan Bug](https://www.youtube.com/watch?v=XWiByCaSbAk) - Nosa Shandy
