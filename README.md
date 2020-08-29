@@ -31,6 +31,7 @@ ________________________________________________________________________________
 - [Cyber Security 101: Filosofi Dasar Keamanan Siber](https://youtu.be/on742mcT4jo) - Manajemen TI
 - [Mendeteksi dan Mengatasi Insiden Cyber Security](https://youtu.be/JwQOyeHswCM) - OVIS UI
 - [Belajar Cyber Security](https://youtu.be/E3IC32iErwU) - Web Programming UNPAS ft Doddy Ferdiansyah
+- [Hacking - Haram vs Halal](https://youtu.be/xpISUxyMiOY) - ECHO|TALK 
 
 ------
 
@@ -138,3 +139,4 @@ Tim biru adalah sekelompok individu yang melakukan analisis sistem informasi unt
 
 ### Story Bug Hunting
 - [Mendapat 100 Juta Dari Google Karena Melaporkan Bug](https://www.youtube.com/watch?v=XWiByCaSbAk) - Nosa Shandy
+- [Bugs Bounty from Zero to Hero](https://youtu.be/zaFC8vjS0u4) - ECHO|TALK
