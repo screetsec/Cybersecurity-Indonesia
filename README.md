@@ -7,13 +7,13 @@ ________________________________________________________________________________
 ## Content
 * [Introduce Cyber Security](#Introduce-Cyber-Security)
 * [Cyber Security Awareness](#Cyber-Security-Awareness)
-* [Peluang Project & Perjelanan Karir di Cyber Security](#Peluang-Project-&-Perjelanan-Karir-Di-Cyber-Security)
-* [Web Application Hacking/Security](#Web-Application-Hacking/Security)
-  * [Local File Inclusion](#Local-File-Inclusion)
-  * [Open Redirect](#Open-Redirect)
-  * [Cross-Site Scripting (XSS)](#Cross-Site-Scripting-(XSS))
-  * [Insecure Direct Object References (IDOR)](#Insecure-Direct-Object-References-(IDOR))
-  * [SQL Injection](#SQL-Injection)
+* [Peluang Project & Perjelanan Karir di Cyber Security](#peluang-project--perjelanan-karir-di-cyber-security)
+* [Web Application Hacking/Security](#web-application-hackingsecurity)
+  * [Local File Inclusion](#local-file-inclusion)
+  * [Open Redirect](#open-redirect)
+  * [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+  * [Insecure Direct Object References (IDOR)](#insecure-direct-object-references-idor)
+  * [SQL Injection](#sql-injection)
 * [Blue Team](#blue-team)
   * [Threat Hunting](#threat-hunting)
   * [Reverse Engineering](#reverse-engineering)
@@ -81,7 +81,7 @@ ________________________________________________________________________________
 - [DVWA - Serangan Cross-Site Scripting (XSS) Reflected, Stored & DOM + Solusi](https://www.youtube.com/watch?v=ElTBEOMGwPc) - Ngoding Coding
 - [Mencuri Cookies Menggunakan Serangan Cross Site Scripting Stored (XSS Stored)](https://www.youtube.com/watch?v=ibnVWCCtsHU) - Ayz Channel
 
-### Insecure Direct Object rReferences (IDOR)
+### Insecure Direct Object References (IDOR)
 - [Sekilas IDOR dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=1634) - Pondok Daring Siber
 - [Demo Serangan Dasar IDOR Menggunakan Burpsuite](https://youtu.be/lHdfeY4RB3E?t=3678) - Pondok Daring Siber
 
