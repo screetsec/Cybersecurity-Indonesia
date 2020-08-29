@@ -70,7 +70,7 @@ ________________________________________________________________________________
 - [Upload Shell LFI/RFI - PHP Expect Wrapper](https://www.youtube.com/watch?v=MI0cpDMfrMU) - Indosec
  
 ### Open Redirect
-- [Sekilas Open Redirect dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=578)
+- [Sekilas Open Redirect dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=578) - Pondok Daring Siber 
 
 
 ### Cross-Site Scripting (XSS) 
@@ -82,8 +82,8 @@ ________________________________________________________________________________
 - [Mencuri Cookies Menggunakan Serangan Cross Site Scripting Stored (XSS Stored)](https://www.youtube.com/watch?v=ibnVWCCtsHU) - Ayz Channel
 
 ### Insecure Direct Object rReferences (IDOR)
-- [Sekilas IDOR dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=1634)
-- [Demo Serangan Dasar IDOR Menggunakan Burpsuite](https://youtu.be/lHdfeY4RB3E?t=3678) 
+- [Sekilas IDOR dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=1634) - Pondok Daring Siber
+- [Demo Serangan Dasar IDOR Menggunakan Burpsuite](https://youtu.be/lHdfeY4RB3E?t=3678) - Pondok Daring Siber
 
 ### SQL Injection
 - [Web - SQL injection dasar](https://youtu.be/qbwhbfdVg3E?list=PLn8rJDl0kSc4-o1ewkJ4VtKF-_0RQKJoN) - Cyber Security IPB	 
