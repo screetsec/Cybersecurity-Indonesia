@@ -11,6 +11,7 @@ ________________________________________________________________________________
 * [Web Application Hacking/Security](#web-application-hackingsecurity)
   * [Local File Inclusion](#local-file-inclusion)
   * [Open Redirect](#open-redirect)
+  * [Cross-Site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
   * [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
   * [Insecure Direct Object References (IDOR)](#insecure-direct-object-references-idor)
   * [SQL Injection](#sql-injection)
@@ -72,6 +73,11 @@ ________________________________________________________________________________
 ### Open Redirect
 - [Sekilas Open Redirect dan Cara Kerja](https://youtu.be/lHdfeY4RB3E?t=578) - Pondok Daring Siber 
 
+### Cross-Site Request Forgery (CSRF)
+- [Mengenal Lebih dalam tentang Serangan CSRF](https://youtu.be/nED23ARZvwQ) - Surabaya Hacker Link
+- [Tutorial dan Simulasi CSRF Attack di CodeIgniter](https://youtu.be/9JH22oAiB_8) - SUSANTOKUN
+- [Demo Cross-site Request Forgery (Bahasa Indonesia) (CSRF/XSRF)](https://www.youtube.com/watch?v=uI2Y08Fzl-M) - Kemal Elmizan
+- [Mengenal Tentang CSRF (Web Security)](https://www.youtube.com/watch?v=IA4CVROQ1-U) - IndoSEC
 
 ### Cross-Site Scripting (XSS) 
 - [Web Security - Konsep XSS (Cross Site Scripting)](https://www.youtube.com/watch?v=RkTrT437MP0) - Cyber Security IPB
