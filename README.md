@@ -1,5 +1,5 @@
 # Indonesia Cyber Security Resources
-Kumpulan Course Video pembalajaran tentang Cyber Security & Hacking secara gratis, repositori ini akan membantu kita dalam proses pembelajaran untuk menjadi seorang IT Security, Pentester, Security Engineer, Security Operation Center dan masih banyak lagi di dalam ruang lingkup Information Security. Jika ingin berkontribusi ke repository ini, silahkan tekan tombol "Pull request". 
+Kumpulan Course Video pembalajaran tentang Cyber Security & Hacking secara GRATIS, repositori ini akan membantu kita dalam proses pembelajaran untuk menjadi seorang IT Security, Pentester, Security Engineer, Security Operation Center dan masih banyak lagi yang di dalam ruang lingkup Information Security. Jika ingin berkontribusi ke repository ini, silahkan tekan tombol "Pull request". 
 ___________________________________________________________________________________________________________
 
 <img src="https://www.secjuice.com/content/images/2020/01/indomnesia-1.jpg">
