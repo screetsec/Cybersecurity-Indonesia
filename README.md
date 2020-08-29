@@ -27,6 +27,7 @@ ________________________________________________________________________________
 ## Introduce Cyber Security
 - [Pengenalan Cyber Security](https://www.youtube.com/watch?v=pTQ2VcdcObU&t=6s) - OVIS UI
 - [Ruang Lingkup Cyber Security](https://www.youtube.com/watch?v=BNcaTTglmRA) - OVIS UI
+- [Cyber Security 101: Filosofi Dasar Keamanan Siber](https://youtu.be/on742mcT4jo) - Manajemen TI
 - [Mendeteksi dan Mengatasi Insiden Cyber Security](https://youtu.be/JwQOyeHswCM) - OVIS UI
 - [Belajar Cyber Security](https://youtu.be/E3IC32iErwU) - Web Programming UNPAS ft Doddy Ferdiansyah
 
