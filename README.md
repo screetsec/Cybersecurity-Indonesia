@@ -36,9 +36,9 @@ ________________________________________________________________________________
 ------
 
 ## Cyber Security Awareness
-- [Mengenal Kejahatan Cyber dan Upaya Pencegah di Era New-Normal](https://youtu.be/KiSBI2YJeVk?t=5137) - M.Khabiburrohman (IT Security Engineer Link Aja)
-- [How Do Hackers Works - Live Hacking Demo](https://youtu.be/7LengaQm4XU?t=5558) - Mukhammad Khabiburrohman (IT Security Eningeer Link Aja)
-- [Kenali Potensi Bahaya Cyber dan Cara Proteksinya](https://youtu.be/KiSBI2YJeVk?t=2459)- Edy Subowo, M.Kom (Dosen Fastikom UMPP)
+- [Mengenal Kejahatan Cyber dan Upaya Pencegah di Era New-Normal](https://youtu.be/KiSBI2YJeVk?t=5137) - M.Khabiburrohman 
+- [How Do Hackers Works - Live Hacking Demo](https://youtu.be/7LengaQm4XU?t=5558) - Mukhammad Khabiburrohman 
+- [Kenali Potensi Bahaya Cyber dan Cara Proteksinya](https://youtu.be/KiSBI2YJeVk?t=2459)- Edy Subowo, M.Kom 
 - [Security Awareness: Story From The Dark Side](https://youtu.be/6Y1JDbf0YcQ) - [Blue Team Indonesia](https://blueteam.id/)
 - [Bentuk Ancaman Dan Kerentan Cyber Security](https://youtu.be/c-N-jgwgWdQ) - OVIS UI
 - [Bersosial Media Dengan Aman](https://www.youtube.com/watch?v=IaJoKjCgvYo) - OVIS UI
@@ -46,15 +46,15 @@ ________________________________________________________________________________
 - [Rekomendasi Antivirus & Antisipasi](https://www.youtube.com/watch?v=Tb16MWBxdD4) - OVIS UI
 - [Mengidentifikasi Website/Aplikasi Berbahaya](https://www.youtube.com/watch?v=uD3PyA37d7E) - OVIS UI
 - [Cyber Security Awareness Internet Safety](https://youtu.be/lv2UeicNMMA) - MASTEL TV
-
+- [Cyber Ssecurity di Era Teknologi Informasi](https://www.youtube.com/watch?v=lFBQmoqvOJM) -  CeLOE Telkom University
 ------
 
 ## Peluang Project & Perjelanan Karir di Cyber Security
-- [Membangun Jalur Karir Di Cyber Security](https://youtu.be/Gh6Mz2wuMuM?t=706) - Dr. Toto Atmojo (Founder & CEO, Defenxor)
-- [How Can I Become A Penetration Tester](https://youtu.be/Gh6Mz2wuMuM?t=3097) - Thomas Gregory (Founder & COO, Spentera)
-- [Cybersecurity Threats, Challenges, Opportunites](https://youtu.be/Gh6Mz2wuMuM?t=5212) - Semi Yulianto (Founder & CEO, SGI Asia)
-- [Menjadi Cyber Security Defendor - Wawancara Exclusive](https://youtu.be/0efIcVpxX2E) - Digit Oktavianto (Found Blueteam.id)
-- [Nusantech Webinar - Berkarir di Bidang Cyber Security](https://www.youtube.com/watch?v=FkPTFYqGjR8&t=3458s) - Satria Ady Pradana (Cyber Security Consultant MII)
+- [Membangun Jalur Karir Di Cyber Security](https://youtu.be/Gh6Mz2wuMuM?t=706) - Dr. Toto Atmojo 
+- [How Can I Become A Penetration Tester](https://youtu.be/Gh6Mz2wuMuM?t=3097) - Thomas Gregory 
+- [Cybersecurity Threats, Challenges, Opportunites](https://youtu.be/Gh6Mz2wuMuM?t=5212) - Semi Yulianto 
+- [Menjadi Cyber Security Defendor - Wawancara Exclusive](https://youtu.be/0efIcVpxX2E) - Digit Oktavianto
+- [Nusantech Webinar - Berkarir di Bidang Cyber Security](https://www.youtube.com/watch?v=FkPTFYqGjR8&t=3458s) - Satria Ady Pradana 
 - [Karir di bidang Cybersecurity] - Budi Raharjo Channel
 
 ------
