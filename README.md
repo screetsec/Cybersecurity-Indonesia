@@ -7,7 +7,6 @@ ________________________________________________________________________________
 ## Content
 * [Introduce Cyber Security](#Introduce-Cyber-Security)
 * [Cyber Security Awareness](#Cyber-Security-Awareness)
-* [Peluang Project & Perjelanan Karir di Cyber Security](#peluang-project--perjelanan-karir-di-cyber-security)
 * [Web Application Hacking/Security](#web-application-hackingsecurity)
   * [Local File Inclusion](#local-file-inclusion)
   * [Open Redirect](#open-redirect)
@@ -55,7 +54,7 @@ ________________________________________________________________________________
 - [Cybersecurity Threats, Challenges, Opportunites](https://youtu.be/Gh6Mz2wuMuM?t=5212) - Semi Yulianto 
 - [Menjadi Cyber Security Defendor - Wawancara Exclusive](https://youtu.be/0efIcVpxX2E) - Digit Oktavianto
 - [Nusantech Webinar - Berkarir di Bidang Cyber Security](https://www.youtube.com/watch?v=FkPTFYqGjR8&t=3458s) - Satria Ady Pradana 
-- [Karir di bidang Cybersecurity] - Budi Raharjo Channel
+- [Karir di bidang Cybersecurity](https://www.youtube.com/watch?v=KQ8Cv5OnkBA) - Budi Raharjo Channel
 
 ------
 
