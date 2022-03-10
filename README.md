@@ -57,6 +57,7 @@ ________________________________________________________________________________
 - [Karir di bidang Cybersecurity](https://www.youtube.com/watch?v=KQ8Cv5OnkBA) - Budi Raharjo Channel
 
 ------
+# Offensive 
 
 ## Web Application Hacking/Security
 - [Pengenalan Web Application Security](https://www.youtube.com/watch?v=Mz3u2v-Y5pU) - Surabaya Hacker Link
@@ -105,9 +106,19 @@ ________________________________________________________________________________
 - [SQL Injection - Pentest Case Study for Beginners (in Bahasa Indonesia)](https://youtu.be/URkCKbZNlnA) - Semi Yulianto
 - [SQL Injection - Yet Another Pentest Case Study (in Bahasa Indonesia)](https://youtu.be/uW86ikKTRqg) - Semi Yulianto
 
-
 ------
 
+# Bug Bounty
+Bug Bounty Program is a company's initiative that appreciates the findings of security holes from ethical hackers, also called Bughunters in an application / system / service. Companies can find vulnerabilities earlier before irresponsible parties find and exploit them. Through this program, companies also can implement security controls on an ongoing basis (reference: www.cyberarmy.id)
+
+- [Apa itu Bug Bounty?](https://www.youtube.com/watch?v=2KHn0_UJhQg) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
+- [Bug Bounty Untuk Pemula - Asset Discovery](https://youtu.be/_1To4mAZeIc) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
+- [Essential & Favorite Bug Bounty Hunting Tools (in Bahasa Indonesia)](https://www.youtube.com/watch?v=avU_QuAQQk8) - Semi Yulianto
+- [5 Bug Bounty Program](https://youtu.be/n9n3Y4qKgoc) - Doddy Ferdiansyah 
+- [DAPETIN REWARD DENGAN SKILLMU!!! - Yuk Pahami Tentang Bug Bounty Program](https://youtu.be/0sfVDQnIlfs) - Doddy Ferdiansyah 
+- [Cara Menjadi Bug Bounty Hunter - Bug Bounty 2022](https://youtu.be/ZxVO3d-X8vc) - RootBakar Official
+- [Mendapat 100 Juta Dari Google Karena Melaporkan Bug](https://youtu.be/XWiByCaSbAk) - Nosa Shandy
+------
 
 # Blue Team
 Tim biru adalah sekelompok individu yang melakukan analisis sistem informasi untuk memastikan keamanan, mengidentifikasi kelemahan keamanan, memverifikasi efektivitas setiap tindakan keamanan, dan memastikan semua tindakan keamanan akan terus efektif setelah implementasi.
