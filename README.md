@@ -107,18 +107,6 @@ ________________________________________________________________________________
 
 ------
 
-# Bug Bounty
-Bug Bounty Program adalah sebuah inisiatif perusahaan yang mengapresiasi temuan celah keamanan dari para Peretas disebut juga dengan Bughunter pada suatu aplikasi / sistem / layanan. Perusahaan dapat menemukan kerentanan lebih dini sebelum pihak yang tidak bertanggungjawab menemukan dan mengeksploitasinya. Melalui program ini juga, perusahaan dapat mengimplementasikan kontrol keamanan secara berkelanjutan. (ref//www.cyberarmy.id)
-
-- [Apa itu Bug Bounty?](https://www.youtube.com/watch?v=2KHn0_UJhQg) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
-- [Bug Bounty Untuk Pemula - Asset Discovery](https://youtu.be/_1To4mAZeIc) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
-- [Essential & Favorite Bug Bounty Hunting Tools (in Bahasa Indonesia)](https://www.youtube.com/watch?v=avU_QuAQQk8) - Semi Yulianto
-- [5 Bug Bounty Program](https://youtu.be/n9n3Y4qKgoc) - Doddy Ferdiansyah 
-- [DAPETIN REWARD DENGAN SKILLMU!!! - Yuk Pahami Tentang Bug Bounty Program](https://youtu.be/0sfVDQnIlfs) - Doddy Ferdiansyah 
-- [Cara Menjadi Bug Bounty Hunter - Bug Bounty 2022](https://youtu.be/ZxVO3d-X8vc) - RootBakar Official
-- [Mendapat 100 Juta Dari Google Karena Melaporkan Bug](https://youtu.be/XWiByCaSbAk) - Nosa Shandy
-------
-
 # Blue Team
 Tim biru adalah sekelompok individu yang melakukan analisis sistem informasi untuk memastikan keamanan, mengidentifikasi kelemahan keamanan, memverifikasi efektivitas setiap tindakan keamanan, dan memastikan semua tindakan keamanan akan terus efektif setelah implementasi.
 
@@ -139,15 +127,20 @@ Tim biru adalah sekelompok individu yang melakukan analisis sistem informasi unt
 - [Pengelanan Malware Analaysis](https://youtu.be/k9ySYLcIpag) - [Blue Team Indonesia](https://blueteam.id/)
 - [Basic Static Malware Analysis](https://www.youtube.com/watch?v=kNOhixlj3dk) - Ngobrol IT Bareng Teknik Komputer
 
-------
+# Bug Bounty
+Bug Bounty Program adalah sebuah inisiatif perusahaan yang mengapresiasi temuan celah keamanan dari para Peretas disebut juga dengan Bughunter pada suatu aplikasi / sistem / layanan. Perusahaan dapat menemukan kerentanan lebih dini sebelum pihak yang tidak bertanggungjawab menemukan dan mengeksploitasinya. Melalui program ini juga, perusahaan dapat mengimplementasikan kontrol keamanan secara berkelanjutan. (ref//www.cyberarmy.id)
 
-## Bug hunting
+## Introduce Bug Bounty
 - [Apa Itu Bug Bounty dan Sejarahnya](https://www.youtube.com/watch?v=2KHn0_UJhQg) - MrDoel
 - [Pengenalan dan Benefit Bug Bounty](https://youtu.be/IdXvfHrMJSQ?t=680) - Pondok Daring Siber
 - [Bug Hunting - Open redirect, XSS, IDOR](https://youtu.be/lHdfeY4RB3E) - Pondok Daring Siber
 - [Essential & Favorite Bug Bounty Hunting Tools](https://www.youtube.com/watch?v=avU_QuAQQk8) - Semi Yulianto
 - [Bug Hunter Muda Talk | Spesialisasi XSS](https://www.youtube.com/watch?v=Dy6_QVxgkUo) - Orang Siber Channel
+- [Bug Bounty Untuk Pemula - Asset Discovery](https://youtu.be/_1To4mAZeIc) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
+- [5 Bug Bounty Program](https://youtu.be/n9n3Y4qKgoc) - Doddy Ferdiansyah 
+- [DAPETIN REWARD DENGAN SKILLMU!!! - Yuk Pahami Tentang Bug Bounty Program](https://youtu.be/0sfVDQnIlfs) - Doddy Ferdiansyah 
+- [Cara Menjadi Bug Bounty Hunter - Bug Bounty 2022](https://youtu.be/ZxVO3d-X8vc) - RootBakar Official
 
-### Story Bug Hunting
+## Story Bug Hunting
 - [Mendapat 100 Juta Dari Google Karena Melaporkan Bug](https://www.youtube.com/watch?v=XWiByCaSbAk) - Nosa Shandy
 - [Bugs Bounty from Zero to Hero](https://youtu.be/zaFC8vjS0u4) - ECHO|TALK
