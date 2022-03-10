@@ -57,7 +57,6 @@ ________________________________________________________________________________
 - [Karir di bidang Cybersecurity](https://www.youtube.com/watch?v=KQ8Cv5OnkBA) - Budi Raharjo Channel
 
 ------
-# Offensive 
 
 ## Web Application Hacking/Security
 - [Pengenalan Web Application Security](https://www.youtube.com/watch?v=Mz3u2v-Y5pU) - Surabaya Hacker Link
