@@ -108,7 +108,7 @@ ________________________________________________________________________________
 ------
 
 # Bug Bounty
-Bug Bounty Program is a company's initiative that appreciates the findings of security holes from ethical hackers, also called Bughunters in an application / system / service. Companies can find vulnerabilities earlier before irresponsible parties find and exploit them. Through this program, companies also can implement security controls on an ongoing basis (reference: www.cyberarmy.id)
+Bug Bounty Program adalah sebuah inisiatif perusahaan yang mengapresiasi temuan celah keamanan dari para Peretas disebut juga dengan Bughunter pada suatu aplikasi / sistem / layanan. Perusahaan dapat menemukan kerentanan lebih dini sebelum pihak yang tidak bertanggungjawab menemukan dan mengeksploitasinya. Melalui program ini juga, perusahaan dapat mengimplementasikan kontrol keamanan secara berkelanjutan. (ref//www.cyberarmy.id)
 
 - [Apa itu Bug Bounty?](https://www.youtube.com/watch?v=2KHn0_UJhQg) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
 - [Bug Bounty Untuk Pemula - Asset Discovery](https://youtu.be/_1To4mAZeIc) - [MrDoel Hacking](https://www.youtube.com/channel/UCdrjciKY9Rwch6aUoo51VEw)
